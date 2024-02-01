@@ -3,13 +3,13 @@ Starting point for infos about the cubes project and hub for shared files
 
 ## Links
 ### Base packages
-* Python: []
-* React: []
-* Vuew: []
-* Unity: []
+* Python: [https://github.com/dasdigitalefoyer/cubes-basepackage-python]
+* React: [https://github.com/dasdigitalefoyer/cubes-basepackage-web-react]
+* Vue: []
+* Unity: [https://github.com/dasdigitalefoyer/cubes-basepackage-unity]
 
 ### Cube modules
-* Cube backend: []
+* Cube backend: [https://github.com/dasdigitalefoyer/cubes-cube-backend]
 * Sensorboard: []
 
 ### Server modules
